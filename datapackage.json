@@ -1,0 +1,40 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "city_population.csv",
+            "profile": "tabular-data-resource",
+            "name": "city_population",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "City",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Total",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Males",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Females",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
