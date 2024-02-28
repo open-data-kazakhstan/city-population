@@ -6,7 +6,7 @@ To begin using the project, follow the steps below:
 
 1. Clone the repository:
     ```shell
-    $ git clone https://github.com/your-username/city-population.git
+    $ git clone https://github.com/open-data-kazakhstan/city-population.git
     ```
 
 2. Create and activate a virtual environment:
