@@ -11,7 +11,7 @@
             "schema": {
                 "fields": [
                     {
-                        "name": "City",
+                        "name": "REGION",
                         "type": "string",
                         "format": "default"
                     },
