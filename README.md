@@ -1,4 +1,4 @@
-# Population of Cities in Kazakhstan 2022
+# City Population
 
 ## Installation
 
@@ -32,7 +32,7 @@ To begin using the project, follow the steps below:
 Population data is sourced from [stat.gov](https://stat.gov).
 
 - `archive/source.xlsx`: Raw data of population of Kazakhstan as of January 1, 2023.
-- `data/city_population.csv`: Cleaned version containing cities with more than 45,000 population.
+- `data/city_population.csv`: Cleaned version containing population information in regions and three major cities of Kazakhstan.
 
 ## Scripts
 
@@ -41,5 +41,5 @@ Population data is sourced from [stat.gov](https://stat.gov).
 
 ## License
 
-The dataset is available under the appropriate license terms from [stat.gov](https://stat.gov).
+This dataset is licensed under the Open Data Commons [Public Domain and Dedication License](https://www.opendatacommons.org/licenses/pddl/1-0/ "‌").
 
